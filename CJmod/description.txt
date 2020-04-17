@@ -1,0 +1,4 @@
+CJmod is my first mod!
+At the moment it adds 2 new weapons: A sword called Nature's Respite and a bow called the Scorcher.
+I will add more to the mod as time goes on.
+I hope you like it!
